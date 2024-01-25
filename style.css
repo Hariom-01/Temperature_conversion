@@ -1,0 +1,41 @@
+
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: 40px;
+    text-shadow: 2px 2px rgb(255, 0, 0);
+}
+#ftoc{
+text-align: center;
+font-size: bold;
+border-radius: 1px rgb(76, 0, 255);    
+}
+input{
+    text-align: center;
+}
+.ctof{
+    text-align: center;
+    margin: auto;
+    font-weight: 100;
+}
+.ftoc{
+    text-align: center;
+    font-size: bold;
+}
+form{
+    background-color: hsl(0,0%,100%);
+    text-align: center;
+    max-width: 50%;
+    margin: 20px auto 0;
+    display: block;
+
+}
+button{
+    font-size: 12px;
+    font-weight: 300;
+}
